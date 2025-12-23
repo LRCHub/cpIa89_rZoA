@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "明日はきっといい日になる - From THE FIRST TAKE",
+  "base_artist": "高橋優",
+  "createdAt": "2025-12-23T10:57:08.922312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日はきっといい日になる feat. えみい",
+      "artist": "コバソロ",
+      "has_synced": true,
+      "path": "select/01_明日はきっといい日になる_feat._えみい_コバソロ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日はきっといい日になる - Ashita wa kitto iihininaru",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/02_明日はきっといい日になる_-_Ashita_wa_kitto_iihininaru_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日はきっといい日になる feat.えみい",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/03_明日はきっといい日になる_feat.えみい_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日はきっといい日になる feat. えみい",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_明日はきっといい日になる_feat._えみい_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日はきっといい日になる",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/05_明日はきっといい日になる_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日はきっといい日になる",
+      "artist": "高橋 優",
+      "has_synced": false,
+      "path": "select/pl_01_明日はきっといい日になる_高橋_優.txt"
+    }
+  ]
+}
